@@ -1,6 +1,6 @@
 # New York Times Scraper
 
--[Heroku Deployed Link]
+<!-- * [NYT_Scraper] () -->
 
 ## Application
 
@@ -14,11 +14,13 @@ When scraping, the app displays the following information for each article:
 Users are able to leave comments on the articles displayed and revisit them later. Comments are saved to the database as well and associated with their articles. Users are able to delete comments left on articles. All stored comments are visible to every user.
 
 ## Technologies Used
-- Node
+- Axios
+- BodyParser
+- Cheerio
+- CSS
 - Express Web Server
 - Express Handlebars
-- Mongoose
-- Cheerio
-- Axios
-- CSS
+- JavaScript
 - MongoDB
+- Mongoose
+- Node
