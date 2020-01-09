@@ -1,6 +1,6 @@
 # New York Times Scraper
 
-<!-- * [NYT_Scraper] () -->
+Heroku Deployed App: https://agile-reaches-76198.herokuapp.com/
 
 ## Application
 
