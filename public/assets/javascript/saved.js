@@ -35,7 +35,7 @@ $(document).ready(function() {
     }
     // Once we have all of the HTML for the articles stored in our articleCards array,
     // append them to the articleCards container
-    articleContainer.append(articleCards);
+    articleContainer.prepend(articleCards);
   }
 
   function createCard(article) {
